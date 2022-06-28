@@ -1,5 +1,4 @@
 ## Gyeeta
 
-Gyeeta from the Exact Solutions, Inc. team is your Global Infrastructure and Services Monitor.
-
+A Non-Intrusive, Free and 100% Open Source Global Infrastructure, Services and Process Monitor.
 
