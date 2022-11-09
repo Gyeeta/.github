@@ -8,7 +8,7 @@ A Non-Intrusive, Free and 100% Open Source Observability Product for your Infras
 -  Service Level Statistics such as Queries/sec, Response Times (Latency) and HTTP Errors (if HTTP based) with no manual inputs or integrations.
    Monitors binary / proprietary network protocol or non HTTP Service statistics as well.
 -  Advanced Cluster, Service or Process Level Alerts.
--  Detect Process Level *CPU starvation, Virtual Memory or IO Bottlenecks*. 
+-  Detect Process Level CPU starvation, Virtual Memory or IO Bottlenecks. 
 
 [Website](https://gyeeta.io) | [Documentation](https://gyeeta.io/docs) | [Youtube](https://youtube.com/@gyeeta)
 
