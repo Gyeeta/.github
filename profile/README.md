@@ -12,3 +12,10 @@ A Non-Intrusive, Free and 100% Open Source Observability Product for your Infras
 
 [Website](https://gyeeta.io) | [Documentation](https://gyeeta.io/docs) | [Youtube](https://youtube.com/@gyeeta)
 
+Main Repositories :
+
+- [Gyeeta Server and Agent C++ Code](https://github.com/gyeeta/gyeeta)
+- [Gyeeta Webserver](https://github.com/gyeeta/nodewebserver)
+- [Gyeeta ReactJS Frontend UI](https://github.com/gyeeta/frontend)
+- [Gyeeta Alert Agent](https://github.com/gyeeta/alertaction)
+
