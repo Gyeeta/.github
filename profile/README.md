@@ -1,4 +1,6 @@
-## Gyeeta
+# Gyeeta Observability
+
+![Gyeeta Logo](https://gyeeta.io/img/logo.png)
 
 A Non-Intrusive, Free and 100% Open Source Observability Product for your Infrastructure, Services and Processes (*Linux* only)
 
@@ -10,7 +12,9 @@ A Non-Intrusive, Free and 100% Open Source Observability Product for your Infras
 -  Advanced Cluster, Service or Process Level Alerts.
 -  Detect Process Level CPU starvation, Virtual Memory or IO Bottlenecks. 
 
+
 [Website](https://gyeeta.io) | [Documentation](https://gyeeta.io/docs) | [Youtube](https://youtube.com/@gyeeta)
+
 
 Main Repositories :
 
