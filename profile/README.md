@@ -1,6 +1,6 @@
 # Gyeeta Observability
 
-<p align="center"><a href="https://gyeeta.io"><img src="https://pkg.gyeeta.workers.dev/gyeeta-96.png" alt="Gyeeta" width="96" /></a></p>
+<p align="center"><a href="https://gyeeta.io"><img src="https://gyeeta.io/img/gyeeta.png" alt="Gyeeta" width="96" /></a></p>
 
 
 A Non-Intrusive, Free and 100% Open Source Observability Product for your Infrastructure, Services and Processes (*Linux* only)
