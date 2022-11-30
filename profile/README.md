@@ -14,7 +14,7 @@ A Non-Intrusive, Free and 100% Open Source Observability Product for your Infras
 -  Detect Process Level CPU starvation, Virtual Memory or IO Bottlenecks. 
 
 
-[***Website***](https://gyeeta.io) | [***Documentation***](https://gyeeta.io/docs) | [***Youtube***](https://youtube.com/@gyeeta)
+[***Website***](https://gyeeta.io) | [***Documentation***](https://gyeeta.io/docs) | [***Youtube***](https://youtube.com/@gyeeta) | [***Twitter***](https://twitter.com/GyeetaIO)
 
 
 Main Repositories :
