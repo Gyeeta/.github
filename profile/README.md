@@ -10,6 +10,7 @@ A Non-Intrusive, Free and 100% Open Source Observability Product for your Infras
 -  Completely non-intrusive monitoring using a combination of [eBPF](https://ebpf.io/) and Kernel Statistics.
 -  Service Level Statistics such as Queries/sec, Response Times (Latency) and HTTP Errors (if HTTP based) with no manual inputs or integrations.
    Monitors binary / proprietary network protocol or non HTTP Service statistics as well.
+-  Process and Service Maps (Network Flows)   
 -  Advanced Cluster, Service or Process Level Alerts.
 -  Detect Process Level CPU starvation, Virtual Memory or IO Bottlenecks. 
 
