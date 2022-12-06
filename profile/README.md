@@ -1,4 +1,4 @@
-# Gyeeta  
+# Gyeeta Observability 
 
 ***Know thy systems, Free thy self!***
 
