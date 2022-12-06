@@ -1,4 +1,7 @@
-# Gyeeta Observability
+# Gyeeta  
+
+***Know thy systems, Free thy self!***
+
 
 <p align="left"><a href="https://gyeeta.io"><img src="https://gyeeta.io/img/gyeeta.png" alt="Gyeeta" width="96" /></a></p>
 
