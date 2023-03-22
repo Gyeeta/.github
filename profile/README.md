@@ -1,12 +1,12 @@
 # Gyeeta Observability 
 
-***Know thy systems, Free thy self!***
+***Know thy systems, Free thyself!***
 
 
 <p align="left"><a href="https://gyeeta.io"><img src="https://gyeeta.io/img/gyeeta.png" alt="Gyeeta" width="96" /></a></p>
 
 
-A Non-Intrusive, Free and 100% Open Source Observability Product for your Infrastructure, Services and Processes (*Linux* only)
+A Non-Intrusive, Free and 100% Open Source Observability Tool for your Infrastructure, Services and Processes (*Linux* only)
 
 -  Monitor Hosts, Services, Processes at *Global* scale (scales to *tens of thousands* of hosts).
 -  Completely Open Source including Agent and Server components. Free to use *forever*.
@@ -18,13 +18,13 @@ A Non-Intrusive, Free and 100% Open Source Observability Product for your Infras
 -  Detect Process Level CPU starvation, Virtual Memory or IO Bottlenecks. 
 
 
-[***Website***](https://gyeeta.io) | [***Documentation***](https://gyeeta.io/docs) | [***Youtube***](https://youtube.com/@gyeeta) | [***Twitter***](https://twitter.com/GyeetaIO)
+[***Website***](https://gyeeta.io) | [***Documentation***](https://gyeeta.io/docs) | [***Youtube***](https://youtube.com/@gyeeta) | [***Twitter***](https://twitter.com/GyeetaIO) | [***Live Demo***](https://gyeeta.io/docs/livedemo)
 
 
 Main Repositories :
 
 - [Gyeeta Server and Agent C++ Code](https://github.com/gyeeta/gyeeta)
 - [Gyeeta Webserver](https://github.com/gyeeta/nodewebserver)
-- [Gyeeta ReactJS Frontend UI](https://github.com/gyeeta/frontend)
+- [Gyeeta React Frontend UI](https://github.com/gyeeta/frontend)
 - [Gyeeta Alert Agent](https://github.com/gyeeta/alertaction)
 
