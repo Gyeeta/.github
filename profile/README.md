@@ -23,8 +23,8 @@ A Non-Intrusive, Free and 100% Open Source Observability Tool for your Infrastru
 
 Main Repositories :
 
-- [Gyeeta Server and Agent C++ Code](https://github.com/gyeeta/gyeeta)
-- [Gyeeta Webserver](https://github.com/gyeeta/nodewebserver)
-- [Gyeeta React Frontend UI](https://github.com/gyeeta/frontend)
-- [Gyeeta Alert Agent](https://github.com/gyeeta/alertaction)
+- [gyeeta - Gyeeta Server and Agent C++ Code](https://github.com/gyeeta/gyeeta)
+- [nodewebserver - Gyeeta Webserver](https://github.com/gyeeta/nodewebserver)
+- [frontend - Gyeeta React Frontend UI](https://github.com/gyeeta/frontend)
+- [alertaction - Gyeeta Alert Agent](https://github.com/gyeeta/alertaction)
 
