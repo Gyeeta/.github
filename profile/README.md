@@ -6,7 +6,7 @@
 <p align="left"><a href="https://gyeeta.io"><img src="https://gyeeta.io/img/gyeeta.png" alt="Gyeeta" width="96" /></a></p>
 
 
-A Non-Intrusive, Free and 100% Open Source Observability Tool for your Infrastructure, Services and Processes (*Linux* only)
+An Open Source Observability Tool for your Infrastructure, Services and Processes (*Linux* only)
 
 -  Monitor Hosts, Services, Processes at *Global* scale (scales to *tens of thousands* of hosts).
 -  Completely Open Source including Agent and Server components. Free to use *forever*.
