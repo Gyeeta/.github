@@ -19,7 +19,7 @@ An Open Source Observability Tool for your Infrastructure, Services and Processe
 -  Detect Process Level CPU starvation, Virtual Memory or IO Bottlenecks. 
 
 
-[***Website***](https://gyeeta.github.io) | [***Documentation***](https://gyeeta.github.io/docs) | [***Youtube***](https://youtube.com/@gyeeta) | [***Twitter***](https://twitter.com/GyeetaIO) 
+[***Website***](https://gyeeta.github.io) | [***Documentation***](https://gyeeta.github.io/docs) | [***Youtube***](https://youtube.com/@gyeeta)
 
 Main Repositories :
 
