@@ -3,7 +3,7 @@
 ***Know thy systems, Free thyself!***
 
 
-<p align="left"><a href="https://gyeeta.io"><img src="https://gyeeta.io/img/gyeeta.png" alt="Gyeeta" width="96" /></a></p>
+<p align="left"><a href="https://gyeeta.io"><img src="https://gyeeta.github.io/img/gyeeta.png" alt="Gyeeta" width="96" /></a></p>
 
 
 An Open Source Observability Tool for your Infrastructure, Services and Processes (*Linux* only)
@@ -19,7 +19,7 @@ An Open Source Observability Tool for your Infrastructure, Services and Processe
 -  Detect Process Level CPU starvation, Virtual Memory or IO Bottlenecks. 
 
 
-[***Website***](https://gyeeta.io) | [***Documentation***](https://gyeeta.io/docs) | [***Youtube***](https://youtube.com/@gyeeta) | [***Twitter***](https://twitter.com/GyeetaIO) | [***Live Demo***](https://gyeeta.io/docs/livedemo)
+[***Website***](https://gyeeta.github.io) | [***Documentation***](https://gyeeta.github.io/docs) | [***Youtube***](https://youtube.com/@gyeeta) | [***Twitter***](https://twitter.com/GyeetaIO) | [***Live Demo***](https://gyeeta.github.io/docs/livedemo)
 
 
 Main Repositories :
