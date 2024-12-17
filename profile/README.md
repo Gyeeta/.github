@@ -3,7 +3,7 @@
 ***Know thy systems, Free thyself!***
 
 
-<p align="left"><a href="https://gyeeta.io"><img src="https://gyeeta.github.io/img/gyeeta.png" alt="Gyeeta" width="96" /></a></p>
+<p align="left"><a href="https://gyeeta.github.io"><img src="https://gyeeta.github.io/img/gyeeta.png" alt="Gyeeta" width="96" /></a></p>
 
 
 An Open Source Observability Tool for your Infrastructure, Services and Processes (*Linux* only)
